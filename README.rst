@@ -3,7 +3,7 @@ Twitter-twig-extension-bundle
 
 .. image:
 
-.. image:: https://api.travis-ci.org/thibaudanthoine/twitter-extra-bundle.svg
+.. image:: https://travis-ci.org/thibaudanthoine/twitter-twig-extension-bundle.svg?branch=master
    :alt: Build status
    :target: https://travis-ci.org/thibaudanthoine/twitter-twig-extension-bundle
 
