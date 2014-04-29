@@ -1,0 +1,17 @@
+{
+    "name": "thibaudanthoine/twitter-twig-extension-bundle",
+    "description": "Twig extension to facilitate twitter buttons integration",
+    "license": "MIT",
+
+    "autoload": {
+        "psr-0": {
+            "Thibaud\\TwitterTwigExtensionBundle": ""
+        }
+    },
+
+    "target-dir": "Thibaud/TwitterTwigExtensionBundle",
+
+    "require": {
+        "twig/extensions": "1.0.*"
+    }
+}
