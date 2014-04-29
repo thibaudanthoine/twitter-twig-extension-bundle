@@ -5,6 +5,8 @@ namespace Thibaud\TwitterTwigExtensionBundle\Tests\Twig;
 use Thibaud\TwitterTwigExtensionBundle\Twig\TwitterTwigExtension;
 
 /**
+ * Test
+ *
  * @author Thibaud Anthoine <thibaud.a@gmail.com>
  */
 class TwitterTwigExtensionTest extends \PHPUnit_Framework_TestCase
