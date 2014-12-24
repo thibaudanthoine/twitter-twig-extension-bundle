@@ -7,12 +7,12 @@ Twitter-twig-extension-bundle
    :alt: Build status
    :target: https://travis-ci.org/thibaudanthoine/twitter-twig-extension-bundle
 
-Provides a Twig extension to facilitate Twitter buttons integration.
+Provides Twig extension for facilitating Twitter buttons integration.
 
 Installation
 ------------
 
-1 - Add the package to your ``composer.json``:
+1 - Add package to your ``composer.json``:
 
 .. code-block:: json
 
@@ -22,7 +22,7 @@ Installation
         }
     }
 
-2 - Edit your ``app/AppKernel.php`` and register the bundle:
+2 - Edit your ``app/AppKernel.php`` and register bundle:
 
 .. code-block:: php
 
@@ -35,7 +35,7 @@ Installation
 
         // ...
 
-3 - Finally configure the service in your ``app/config/config.yml``:
+3 - Finally configure the service in ``app/config/config.yml``:
 
 .. code-block:: yaml
 
@@ -53,8 +53,7 @@ Installation
 Using Twitter twig extension bundle
 -----------------------------------
 
-To include a Twitter button (share or follow) to your application,
-simply use the twig functions below:
+To include Twitter button (share or follow) in your application, simply use twig functions below:
 
 .. code-block:: html+jinja
 
